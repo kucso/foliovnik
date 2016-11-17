@@ -1,0 +1,1 @@
+obrázky na pozadie

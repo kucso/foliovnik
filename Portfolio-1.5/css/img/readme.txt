@@ -1,1 +1,0 @@
-obrazky na pozadie stranky

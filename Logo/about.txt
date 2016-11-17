@@ -1,1 +1,1 @@
-v tomto priečinku sú logá pre našu stránku.
+V tomto priečinku sú logá pre našu stránku.

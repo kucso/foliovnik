@@ -1,1 +1,0 @@
-obrazky pouzite na stranke

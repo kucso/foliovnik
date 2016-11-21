@@ -52,3 +52,7 @@ img {
     font-size: 0.8rem;
     padding: 2.5rem 0;
 }
+
+.btn-lg {
+	background-color: #e67e22;
+}

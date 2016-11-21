@@ -18,7 +18,7 @@ img {
 /* cover */
 
 #cover {
-    background: #222 url(img/l.jpg) center center no-repeat;
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url(img/l.jpg);
     background-size: cover;
     color: white;
     height: 100%;

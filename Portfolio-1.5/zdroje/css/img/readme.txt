@@ -1,0 +1,1 @@
+int img na pozadie

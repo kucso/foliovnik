@@ -1,1 +1,0 @@
-interný .js

@@ -1,1 +1,0 @@
-obrázky použité na stránke
